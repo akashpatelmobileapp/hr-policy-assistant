@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-core
+langchain-mistralai
+langchain-openai
+langchain-anthropic
+langchain-text-splitters
+langchain-experimental
+langsmith
+python-dotenv
+streamlit
